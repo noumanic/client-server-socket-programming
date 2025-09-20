@@ -5,7 +5,6 @@ A comprehensive collection of socket programming implementations in C++ demonstr
 ## Repository Information
 - **Repository**: [client-server-socket-programming](https://github.com/noumanic/client-server-socket-programming)
 - **Author**: [noumanic](https://github.com/noumanic)
-- **Lab Assignment**: A_21i-0416_LAB5
 
 ## Overview
 
@@ -25,7 +24,7 @@ Both implementations demonstrate fundamental concepts of network programming inc
 ├── i210416_task2_server.cpp      # Tic-Tac-Toe game server
 ├── i210416_task1_terminals_output.cpp.png  # Task 1 execution screenshots
 ├── i210416_task2_terminals_output.cpp.png  # Task 2 execution screenshots
-├── A_i210416_LAB5.pdf           # Lab assignment document
+├── A_i210416_LAB5.pdf           # Report document
 └── README.md                    # This file
 ```
 
