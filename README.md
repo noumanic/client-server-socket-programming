@@ -22,8 +22,8 @@ Both implementations demonstrate fundamental concepts of network programming inc
 ├── i210416_task1_server.cpp      # Chat application server
 ├── i210416_task2_client.cpp      # Tic-Tac-Toe game client
 ├── i210416_task2_server.cpp      # Tic-Tac-Toe game server
-├── i210416_task1_terminals_output.cpp.png  # Task 1 execution screenshots
-├── i210416_task2_terminals_output.cpp.png  # Task 2 execution screenshots
+├── i210416_task1_terminals_output.png  # Task 1 execution screenshots
+├── i210416_task2_terminals_output.png  # Task 2 execution screenshots
 ├── A_i210416_LAB5.pdf           # Report document
 └── README.md                    # This file
 ```
@@ -169,8 +169,8 @@ g++ -o game_client i210416_task2_client.cpp
 ```
 
 ## Screenshots
-- `i210416_task1_terminals_output.cpp.png`: Task 1 execution demonstration
-- `i210416_task2_terminals_output.cpp.png`: Task 2 execution demonstration
+- `i210416_task1_terminals_output.png`: Task 1 execution demonstration
+- `i210416_task2_terminals_output.png`: Task 2 execution demonstration
 
 ## Learning Objectives
 
